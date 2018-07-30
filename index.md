@@ -31,7 +31,7 @@ layout: compress
         <nav class="links">
             <!-- <a href="#"><i class="fa fa-twitter-square fa-3x"></i></a> -->
             <!-- <a href="#"><i class="fa fa-instagram fa-3x"></i></a> -->
-            <!-- <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a> -->
+            <!-- <a href="http://www.facebook.com/{{site.data.config.social.facebook}}"><i class="fa fa-facebook-square fa-3x"></i></a> -->
             <!-- <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a> -->
         </nav>
     </header>
