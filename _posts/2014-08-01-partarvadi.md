@@ -12,4 +12,4 @@ date:   2014-08-01 12:12:12
 
 
 <a href="#">Patravadi shcool  site[discontinue]</a><br>
-Develop base in HTML5 CSS and JS
+Develop using wordpress
