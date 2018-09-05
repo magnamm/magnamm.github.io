@@ -1,9 +1,9 @@
 ---
-title:  "Patravadi School"
+title:  "Vic Hua Hin"
 subtitle: "Offical Site"
 author: "Ruttaphong"
 avatar: "http://graph.facebook.com/1580299473/picture?type=large"
-image: "img/patravadischool.jpg"
+image: "img/vichuahin.jpg"
 date:   2014-08-01 12:12:12
 ---
 
@@ -11,5 +11,5 @@ date:   2014-08-01 12:12:12
 <a href="#"><img src="{{page.image}}" width="100%"></a>
 
 
-<a href="#">Patravadi shcool  site[discontinue]</a><br>
+<a href="#">Vic Hua Hin site[discontinue]</a><br>
 Develop using wordpress

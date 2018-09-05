@@ -3,7 +3,7 @@ title:  "Bangkok Impress"
 subtitle: "Offical Site"
 author: "Ruttaphong"
 avatar: "http://graph.facebook.com/1580299473/picture?type=large"
-image: "img/bangkokimpress.png"
+image: "img/bangkokimpress.jpg"
 date:   2017-08-01 12:12:12
 ---
 
