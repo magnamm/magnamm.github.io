@@ -61,9 +61,9 @@ layout: compress
                             <p class="card__subtitle">{{ post.subtitle }}</p>
                         </div>
                         <div class="card__copy">
-                            <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
+                            <div class="meta"><a href="http://ruttaphong.github.io">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/></a>
+                                <a href="http://ruttaphong.github.io"><span class="meta__author">{{ post.author }}</span></a>
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
                             {{ post.content }}
