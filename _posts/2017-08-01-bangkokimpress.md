@@ -11,5 +11,5 @@ date:   2017-08-01 12:12:12
 <a href="http://magnamm.github.io/bangkokimpress"><img src="{{page.image}}" width="100%"></a>
 
 
-<a href="http://magnamm.github.io/bangkokimpress">bangkok impress site[Under Development]</a><br>
+<a href="http://magnamm.github.io/bangkokimpress">bangkok impress site</a><br>
 Develop base in HTML5 CSS and JS
